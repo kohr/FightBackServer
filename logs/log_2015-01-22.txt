@@ -1,0 +1,16 @@
+[2015-01-22 11:04:41.592808] [INFO] www.lemonde.fr/ -> 100 tweets found
+[2015-01-22 11:05:17.576309] [INFO] www.lemonde.fr/ameriques/article/2015/01/21/plongee-dans-l-enfer-de-guantanamo_*_** -> 0 tweets found
+[2015-01-22 11:05:27.354386] [INFO] www.lemonde.fr/ameriques/article/2015/01/22/ferguson-le-policier-ne-devrait-pas-faire-l-objet-de-poursuites-federales_*_** -> 1 tweets found
+[2015-01-22 11:05:54.602371] [INFO] www.lemonde.fr/economie/article/2015/01/22/google-s-interesse-de-pres-a-la-telephonie-mobile_*_** -> 1 tweets found
+[2015-01-22 11:20:19.069542] [INFO] www.lemonde.fr/ameriques/article/2015/01/21/plongee-dans-l-enfer-de-guantanamo_*_** -> 0 tweets found
+[2015-01-22 11:35:29.113387] [INFO] www.lemonde.fr/ameriques/article/2015/01/21/plongee-dans-l-enfer-de-guantanamo_*_** -> 0 tweets found
+[2015-01-22 11:50:46.032037] [INFO] www.lemonde.fr/ameriques/article/2015/01/21/plongee-dans-l-enfer-de-guantanamo_*_** -> 0 tweets found
+[2015-01-22 16:08:57.271485] [INFO] www.lemonde.fr/ -> 100 tweets found
+[2015-01-22 16:09:11.790177] [INFO] www.lemonde.fr/economie/article/2015/01/22/la-bce-laisse-ses-taux-inchanges-proches-de-zero_*_** -> 0 tweets found
+[2015-01-22 16:09:27.625535] [INFO] www.lemonde.fr/societe/article/2015/01/22/apologie-du-terrorisme-la-justice-face-a-l-urgence_*_** -> 0 tweets found
+[2015-01-22 16:09:43.342966] [INFO] campus.lemonde.fr/campus/article/2015/01/22/les-mesures-de-l-apres-charlie-au-college-et-au-lycee_*_** -> 37 tweets found
+[2015-01-22 16:09:45.586270] [INFO] www.lemonde.fr/pixels/article/2015/01/22/cinq-choses-a-savoir-sur-windows-10_*_** -> 1 tweets found
+[2015-01-22 16:09:54.583441] [INFO] www.lemonde.fr/politique/article/2015/01/22/apartheid-valls-appelle-sarkozy-a-penser-a-la-france_*_** -> 7 tweets found
+[2015-01-22 16:09:56.555201] [INFO] www.lemonde.fr/football/article/2015/01/22/can-2015-en-rdc-la-nation-se-reunit-derriere-les-leopards_*_** -> 1 tweets found
+[2015-01-22 16:14:57.595756] [INFO] www.lemonde.fr/les-decodeurs/article/2015/01/22/effectifs-et-horaires-des-policiers-les-erreurs-de-sarkozy_*_** -> 0 tweets found
+[2015-01-22 16:14:57.931907] [INFO] www.lemonde.fr/economie/article/2015/01/22/dialogue-social-syndicats-et-patronat-echouent-a-trouver-un-accord_*_** -> 0 tweets found

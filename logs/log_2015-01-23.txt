@@ -1,0 +1,5 @@
+[2015-01-23 1:57:29.286870] [INFO] www.lemonde.fr/ -> 100 tweets found
+[2015-01-23 1:58:00.969243] [INFO] www.lemonde.fr/proche-orient/article/2015/01/22/le-gouvernement-du-yemen-presente-sa-demission_*_** -> 0 tweets found
+[2015-01-23 1:58:07.788973] [INFO] www.lemonde.fr/politique/article/2015/01/22/les-raisons-de-l-eviction-d-aymeric-chauprade-du-front-national_*_** -> 4 tweets found
+[2015-01-23 1:58:35.025190] [INFO] www.lemonde.fr/planete/article/2015/01/22/pres-de-la-moitie-de-la-croissance-urbaine-se-fait-dans-les-bidonvilles_*_** -> 3 tweets found
+[2015-01-23 16:10:47.312279] [INFO] www.lemonde.fr/ -> 100 tweets found

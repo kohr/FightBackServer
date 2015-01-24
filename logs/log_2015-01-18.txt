@@ -1,0 +1,11 @@
+[2015-01-18 23:05:07.121597] [INFO] www.lemonde.fr/societe/article/2015/01/18/michel-rocard-il-n-y-a-pas-lieu-de-remettre-en-cause-la-politique-d-immigration_*_*.html -> 8 tweets found
+[2015-01-18 23:05:09.138102] [INFO] www.lemonde.fr/societe/article/2015/01/18/michel-rocard-il-n-y-a-pas-lieu-de-remettre-en-cause-la-politique-d-immigration_*_*.html -> 8 tweets found
+[2015-01-18 23:08:08.213366] [INFO] www.washingtonpost.com/national/koran-burning-preachers-pulpit-of-deance-and-chili-cheese-dogs/2015/01/17/c98a79e2-9d9e-11e4-a7ee-526210d665b4_story.html?hpid=z1 -> 0 tweets found
+[2015-01-18 23:08:15.267853] [INFO] www.nytimes.com/2015/01/18/us/president-obama-will-seek-to-reduce-taxes-for-middle-class.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news -> 0 tweets found
+[2015-01-18 23:08:23.876890] [INFO] www.lemonde.fr/asie-pacifique/article/2015/01/18/un-survivant-d-un-camp-nord-coreen-revient-sur-son-temoignage_*_*.html -> 0 tweets found
+[2015-01-18 23:08:30.475423] [INFO] www.lemonde.fr/ -> 100 tweets found
+[2015-01-18 23:08:31.893419] [INFO] www.lemonde.fr/societe/article/2015/01/17/emotion-a-bethune-apres-des-actes-islamophobes_*_*.html -> 0 tweets found
+[2015-01-18 23:09:10.326317] [INFO] www.lemonde.fr/economie/article/2015/01/18/les-routiers-entament-dimanche-une-greve-pour-leurs-salaires_*_*.html -> 5 tweets found
+[2015-01-18 23:13:52.507042] [INFO] www.lemonde.fr/ -> 100 tweets found
+[2015-01-18 23:14:03.405792] [INFO] www.nytimes.com/ -> 100 tweets found
+[2015-01-18 23:23:03.044991] [INFO] www.lemonde.fr/afrique/video/2015/01/18/a-paris-un-rassemblement-en-hommage-aux-milliers-de-victimes-de-boko-haram_*_*.html -> 8 tweets found

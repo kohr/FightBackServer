@@ -1,0 +1,19 @@
+{
+  "name": "armedwing/fightback",
+  "license": "MIT",
+  "type": "project",
+  "description": "Fight back !",
+  "autoload": {
+      "psr-0": { "": "src/" }
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "silex/silex": "~1.2",
+    "knplabs/console-service-provider": "dev-master",
+    "neoxygen/neoclient": "~2.0",
+    "abraham/twitteroauth": "0.3.0",
+    "katzgrau/klogger": "1.0.*",
+    "symfony/dom-crawler" : "dev-master",
+    "symfony/css-selector" : "dev-master"
+  }
+}
