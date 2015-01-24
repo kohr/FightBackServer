@@ -46,7 +46,7 @@ class API {
   		'count' => 100
     ));
 
-    $logger = new \Katzgrau\KLogger\Logger(__DIR__.'/../../../logs');
+    $logger = new \Katzgrau\KLogger\Logger(__DIR__.'/../../../app/logs');
     $logger->info('searchUrl url:'.$url.' -> '.count($tweets->statuses).' tweets found');
     //$logger->error('Oh dear.');
     //$logger->debug('Got these users from the Database.', $users);
@@ -66,7 +66,7 @@ class API {
   		'count' => 100
     ));
 
-    $logger = new \Katzgrau\KLogger\Logger(__DIR__.'/../../../logs');
+    $logger = new \Katzgrau\KLogger\Logger(__DIR__.'/../../../app/logs');
     $logger->info('getFeed @'.$account.' -> '.count($tweets->statuses).' tweets found');
     
     return $tweets;
