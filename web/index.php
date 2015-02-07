@@ -34,6 +34,10 @@ $app->get('/', function (Request $request) {
     $db = new DbHelper(__DIR__.'/../');
     $data = $db->get($sql);
     
+    //foreach ($data as $hit) {
+    //  $data['tweet_oembed'] = FightBack\Twitter\Api::getOembed($hit->tweet_id);
+    //}
+    
 
     $response = new JsonResponse();
     $response->setData($data);

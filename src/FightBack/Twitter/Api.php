@@ -54,6 +54,15 @@ class API {
     return $tweets;
   }
 
+  /**
+  * search
+  */
+  public static function getOembed($tweet_id){
+    $twitter = self::load();
+    return $twitter->get('statuses/oembed', array(
+  		'url' => 'https://twitter.com/acrimed_info/status/'.$tweet_id
+    ));
+  }
 
   /**
   * user's feed
